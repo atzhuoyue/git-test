@@ -11,6 +11,8 @@ public class GitTest {
         System.out.println("idea git first test2");
         System.out.println("idea git first test3");
         System.out.println("idea git first merge test");
+        System.out.println("idea git hot-fix merge test");
+        System.out.println("idea git first merge test");
     }
 
 }
