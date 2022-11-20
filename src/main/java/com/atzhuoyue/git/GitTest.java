@@ -7,8 +7,9 @@ package com.atzhuoyue.git;
 public class GitTest {
 
     public static void main(String[] args) {
-        System.out.println("idea git first test");
-        System.out.println("idea git first test");
+        System.out.println("idea git first test1");
+        System.out.println("idea git first test2");
+        System.out.println("idea git first test3");
     }
 
 }
