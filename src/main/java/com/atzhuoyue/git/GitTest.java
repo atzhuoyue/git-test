@@ -8,6 +8,7 @@ public class GitTest {
 
     public static void main(String[] args) {
         System.out.println("idea git first test");
+        System.out.println("idea git first test");
     }
 
 }
