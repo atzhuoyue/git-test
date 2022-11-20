@@ -15,6 +15,7 @@ public class GitTest {
         System.out.println("idea git master merge test");
         System.out.println("idea git master push test");
         System.out.println("idea git master pull test");
+        System.out.println("idea gitee master pull test");
     }
 
 }
